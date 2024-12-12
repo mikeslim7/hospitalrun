@@ -1,8 +1,8 @@
-{
+m7{
   "name": "hospitalrun",
   "version": "2.0.0",
   "description": "HosptialRun mono-repo",
-  "repository": "git@github.com:HospitalRun/hospitalrun.git",
+  "repository": "git@github.com:mikeslim7/hospitalrun.git",
   "author": "Maksim Sink <maksim@sinik.it>",
   "license": "MIT",
   "private": true,
